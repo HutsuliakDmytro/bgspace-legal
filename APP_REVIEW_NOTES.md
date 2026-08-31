@@ -17,8 +17,8 @@
 ## NOTES (копіювати від наступного рядка)
 
 DEMO ACCOUNT
-Email: << демо-пошта >>
-Password: << демо-пароль >>
+Email: dmutrogytsylak@gmail.com
+Password: REMOVED
 A second demo account is available on request for a full two-player match.
 
 1. SCREEN RECORDING
