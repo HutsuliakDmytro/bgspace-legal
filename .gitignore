@@ -1,0 +1,11 @@
+# Креди й локальні нотатки з ними — ніколи в цей публічний репо.
+# Демо-акаунт для рев'ю Apple живе лише в App Store Connect.
+.env
+.env.*
+*.pem
+*.p8
+*.p12
+*credentials*
+*secret*
+*demo-account*
+*.local.md
